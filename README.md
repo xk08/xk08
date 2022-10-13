@@ -35,12 +35,6 @@
 
 [![xk08's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xk08)](https://github.com/xk08/xk08)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-958%20hrs%2017%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-920%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
-
-<!--END_SECTION:waka-->
 
 
 <div align="center">
@@ -51,6 +45,9 @@
 ![Visitor Count](https://profile-counter.glitch.me/xk08/count.svg)
 
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
