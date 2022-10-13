@@ -5,7 +5,7 @@
 
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/xk08/xk08/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=xk08&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&layout=compact" alt="GitHub Stats for xk08" width="700">
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/xk08/xk08/master/images/marquee.svg" />
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/xk08/xk08/blob/main/images/thnxs.svg" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/xk08/count.svg)
