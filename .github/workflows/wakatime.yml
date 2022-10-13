@@ -11,7 +11,7 @@ jobs:
     name: WakaTime Update
     runs-on: ubuntu-latest
     steps:
-      - uses: xk08/wakatime@main
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LOCALE: "pt-BR"
