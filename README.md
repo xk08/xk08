@@ -1,17 +1,8 @@
-### Hi there 👋
-
-
-
-
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="https://github.com/xk08/xk08/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-</div>
+<img src="https://github.com/xk08/xk08/blob/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=xk08&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&layout=compact" alt="GitHub Stats for xk08" width="700">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=xk08&theme=dracula&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" width="700">
-
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=xk08.xk08)
