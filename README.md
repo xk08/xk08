@@ -14,6 +14,7 @@ C                        3 repos             ██░░░░░░░░░�
 
 ```
 
-
-
 <!--END_SECTION:waka-->
+
+[![Xk08's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xk08)](https://github.com/xk08/xk08)
+
