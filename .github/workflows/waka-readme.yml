@@ -25,3 +25,4 @@ jobs:
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True" 
+          SHOW_LOC_CHART: "False"
