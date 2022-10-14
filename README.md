@@ -4,20 +4,22 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Salve+Dev!+👋;Eu+sou+Marcos+(xk08);Seja+bem+vind@!&center=true&size=30">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Salve+Dev!+👋;Eu+sou+Marcos+Martins;(xk08);Seja+bem+vind@!&center=true&size=30">
   </a>
 </div>
 
 <div align="left">
 
-## <img src="https://media.tenor.com/CKA21kCjN3QAAAAj/ali-yalniz-world-is-spinning.gif" width="30">  Além do Github, você me encontra em... 
+## <img src="https://media.tenor.com/CKA21kCjN3QAAAAj/ali-yalniz-world-is-spinning.gif" width="50">  Além do Github, você me encontra em... 
 
  <a href="https://twitter.com/xk08__" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
  <a href="https://www.linkedin.com/in/xk08/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
  <a href="https://www.instagram.com/xk08__/" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
  <a href="mailto:mmartins@digitalhouse.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
  <a href="https://www.discordapp.com/users/xk08#5286" target="_blank">![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
-   <a href="https://github.com/xk08?tab=repositories&sort=stargazers" target="_blank">
+ <a href="https://open.spotify.com/user/xk08?si=db2152e137d94488&nd=1" target="_blank">![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)</a>
+  
+  <a href="https://github.com/xk08?tab=repositories&sort=stargazers" target="_blank">
      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/xk08?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <a href="https://github.com/xk08?tab=followers" target="_blank">
      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/xk08?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -34,9 +36,27 @@ Bloco do YT comentado por enquanto.
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCFEAGz_GH-le435CBTU8cQg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
 </div>
  --->
-## <img src="https://media.tenor.com/UgAnSKyr8DwAAAAj/cat-robot.gif" width="50"> GitHub Stats
+ 
+ ## <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" width="50"> Linguagens e tecnologias que utilizo atualmente
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ 
 
-<img src="https://github-readme-stats.vercel.app/api?username=xk08&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact" width="700" alt="GitHub Stats for xk08">
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+ ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+ ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+ 
+ ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+ ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+ 
+ ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ 
+
+## <img src="https://media.tenor.com/UgAnSKyr8DwAAAAj/cat-robot.gif" width="60"> GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=xk08&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact" alt="GitHub Stats for xk08">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue)
@@ -114,10 +134,6 @@ Dart                     3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xk08&count_private=true&layout=compact&langs_count=10&theme=react&include_all_commits=true&count_private=true)](https://github.com/xk08/xk08)
  
- <br/>
- <br/>
-
-
 <div align="center">
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/xk08/xk08/blob/master/images/thnxs.svg"/>
  <br />
