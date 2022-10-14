@@ -4,8 +4,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-255-blue)
 
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-617%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
-
 **🐱 Meus dados no GitHub** 
 
 > 🏆 438 Contribuições no ano de 2022
