@@ -1,3 +1,23 @@
+<div align="center">
+ <img src="https://github.com/xk08/xk08/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+
+ <img src="https://github-readme-stats.vercel.app/api?username=xk08&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&layout=compact" alt="GitHub Stats for xk08" width="700">
+
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=xk08&theme=chartreuse-dark&locale=pt-br&date_format=j%2Fn%5B%2FY%5D" width="700">
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xk08&count_private=true&layout=compact&langs_count=10&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/xk08/xk08)
+ 
+</div>
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/xk08__?label=Seguir)](https://twitter.com/intent/follow?screen_name=xk08__)
+
+[![Linkedin: anmol](https://img.shields.io/badge/-xk08-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/xk08/)](https://www.linkedin.com/in/xk08/)
+
+![GitHub followers](https://img.shields.io/github/followers/xk08?label=Follow&style=social)
+
+
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue)
 
@@ -69,5 +89,10 @@ Dart                     3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-[![Xk08's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xk08)](https://github.com/xk08/xk08)
+<div align="center">
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/xk08/xk08/blob/master/images/thnxs.svg"/>
+ <br />
+  <p>Total de visitas</p>
 
+ ![Visitor Count](https://profile-counter.glitch.me/xk08/count.svg)
+</div>
