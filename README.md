@@ -8,6 +8,30 @@
   </a>
 </div>
 
+## Quem é xk08 ?
+-  Mestre em Computação Aplicada | Bacharel em Sistemas de Informação | Técnico em informática;
+-  Professor de Front End na [Digital House Brasil](https://www.digitalhouse.com/br);
+-  Desenvolvedor Web e Mobile;
+
+:stuck_out_tongue_winking_eye: Se eu fosse um objeto JS, acho que seria mais ou menos assim... 
+
+```javascript
+const xk08 = {
+    mePergunteSobre: ["desenvolvimento web", "tecnologias", "apps", "jogos", "ciência", "pós-graduação"],
+    tecnologias: {
+        frontEnd: ["HTML", "CSS", "JavaScript", "React"],
+        backEnd: ["Java", "Spring Boot", "Heroku", "Firebase"],
+        mobileApp: ["Flutter", "React native", "Android Development"],
+        devOps: ["Heroku", "AWS", "Docker"],
+        databases: ["PostgresSQL", "MySql", "Sqlite"],
+    },
+    arquitetura: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    estouFocadoEm: ["Ensinar as pessoas a programar melhor", "melhorar meu portifólio como dev"]
+};
+```
+<br/>
+<br/>
+
 <div align="left">
 
 ## <img src="https://media.tenor.com/CKA21kCjN3QAAAAj/ali-yalniz-world-is-spinning.gif" width="50">  Além do Github, você pode me encontrar em:
@@ -37,6 +61,8 @@ Bloco do YT comentado por enquanto.
 </div>
  --->
  
+ <br/>
+ 
  ## <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" width="50"> Linguagens, tecnologias e ferramentas que utilizo atualmente:
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,6 +79,7 @@ Bloco do YT comentado por enquanto.
  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  
+ <br/>
 
 ## <img src="https://media.tenor.com/UgAnSKyr8DwAAAAj/cat-robot.gif" width="60"> Um pouco de minha contribuição como Dev (GitHub Stats):
 
