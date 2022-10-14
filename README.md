@@ -2,8 +2,22 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-255-blue)
+
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-617%20Thousand%20linhas%20de%20c%C3%B3digo-blue)
 
+**🐱 Meus dados no GitHub** 
+
+> 🏆 437 Contribuições no ano de 2022
+ > 
+> 📦 28.9 kB Usado no armazenamento do GitHub 
+ > 
+> 🚫 Não aberto para contratação
+ > 
+> 📜 21 Repositórios Públicos 
+ > 
+> 🔑 6 Repositórios Privados  
+ > 
 **Eu geralmente programo em JavaScript** 
 
 ```text
@@ -16,6 +30,10 @@ C                        3 repos             ██░░░░░░░░░�
 ```
 
 
+**Linha do tempo**
 
- Last Updated on 14/10/2022 00:02:26 UTC
+![Chart not found](https://raw.githubusercontent.com/xk08/xk08/master/charts/bar_graph.png) 
+
+
+ Last Updated on 14/10/2022 00:14:02 UTC
 <!--END_SECTION:waka-->
