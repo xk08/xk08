@@ -2,13 +2,15 @@
  <img src="https://github.com/xk08/xk08/blob/master/images/welcome.png?raw=true" style="max-width: 50%;" alt="Welcome to my Github Profile" />
 </div>
 
-<h1 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salve+Dev!+👋;Eu+sou+Marcos+(xk08);Seja+bem+vind@!&center=true&size=30">
   </a>
-</h1>
+</div>
 
-<h5 align="center">
+<div align="left">
+
+## <img src="https://media.tenor.com/CKA21kCjN3QAAAAj/ali-yalniz-world-is-spinning.gif" width="30">  Além do Github, você me encontra em... 
 
  <a href="https://twitter.com/xk08__" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
  <a href="https://www.linkedin.com/in/xk08/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -20,32 +22,21 @@
    <a href="https://github.com/xk08?tab=followers" target="_blank">
      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/xk08?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
      
-</h5>
-
-
-
+</div>
 
 <!---- 
 Bloco do YT comentado por enquanto.
-<p align="center">
+<div align="center">
   <a href="https://www.youtube.com/channel/UCFEAGz_GH-le435CBTU8cQg?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCFEAGz_GH-le435CBTU8cQg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 
   <a href="https://www.youtube.com/channel/UCFEAGz_GH-le435CBTU8cQg">
     <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCFEAGz_GH-le435CBTU8cQg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+</div>
  --->
-    
+## <img src="https://media.tenor.com/UgAnSKyr8DwAAAAj/cat-robot.gif" width="50"> GitHub Stats
 
-    
-</p>
-
-<br/>
-
-
-
-
-
-## 💻 GitHub Profile Stats
+<img src="https://github-readme-stats.vercel.app/api?username=xk08&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact" width="700" alt="GitHub Stats for xk08">
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue)
@@ -115,7 +106,6 @@ Dart                     3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 <!--END_SECTION:waka-->
 
-   <img src="https://github-readme-stats.vercel.app/api?username=xk08&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact" width="700" alt="GitHub Stats for xk08">
 
  <img src="https://github-readme-streak-stats.herokuapp.com?user=xk08&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D">
 
