@@ -10,7 +10,7 @@
 
 <div align="left">
 
-## <img src="https://media.tenor.com/CKA21kCjN3QAAAAj/ali-yalniz-world-is-spinning.gif" width="50">  Além do Github, você me encontra em... 
+## <img src="https://media.tenor.com/CKA21kCjN3QAAAAj/ali-yalniz-world-is-spinning.gif" width="50">  Além do Github, você pode me encontrar em:
 
  <a href="https://twitter.com/xk08__" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
  <a href="https://www.linkedin.com/in/xk08/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -37,7 +37,7 @@ Bloco do YT comentado por enquanto.
 </div>
  --->
  
- ## <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" width="50"> Linguagens e tecnologias que utilizo atualmente
+ ## <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" width="50"> Linguagens, tecnologias e ferramentas que utilizo atualmente:
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -54,7 +54,7 @@ Bloco do YT comentado por enquanto.
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  
 
-## <img src="https://media.tenor.com/UgAnSKyr8DwAAAAj/cat-robot.gif" width="60"> GitHub Stats
+## <img src="https://media.tenor.com/UgAnSKyr8DwAAAAj/cat-robot.gif" width="60"> Um pouco de minha contribuição como Dev (GitHub Stats):
 
 <img src="https://github-readme-stats.vercel.app/api?username=xk08&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact" alt="GitHub Stats for xk08">
 
@@ -135,9 +135,9 @@ Dart                     3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xk08&count_private=true&layout=compact&langs_count=10&theme=react&include_all_commits=true&count_private=true)](https://github.com/xk08/xk08)
  
 <div align="center">
- <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/xk08/xk08/blob/master/images/thnxs.svg"/>
- <br />
   <p>Total de visitas</p>
-
+  
  ![Visitor Count](https://profile-counter.glitch.me/xk08/count.svg)
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/xk08/xk08/blob/master/images/thnxs.svg"/>
 </div>
