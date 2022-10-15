@@ -8,28 +8,23 @@
   </a>
 </div>
 
-## Quem é xk08 ?
--  Mestre em Computação Aplicada | Bacharel em Sistemas de Informação | Técnico em informática;
--  Professor de Front End na [Digital House Brasil](https://www.digitalhouse.com/br);
--  Desenvolvedor Web e Mobile;
+## A estrada até aqui... :rocket:
+* :mortar_board:Minha jornada acadêmica:
+  - Mestre em Computação Aplicada (2 anos e 6 meses);
+  - Bacharel em Sistemas de Informação (4 anos);
+  - Técnico em informática (2 anos);
+ 
+* :ghost: Minha jornada como professor de Front End II na [Digital House Brasil](https://www.digitalhouse.com/br);
+  - Há 11 meses atuo como professor;
+  - Já tive 6 turmas (+2 em andamento atualmente);
+  - Já auxiliei +200 estudantes em sala de aula ;
+ 
+* :iphone: Minha jornada como desenvolvedor Web e Mobile:
+  - Desenvolvedor do aplicativo Bem-Estar App | Produto tecnológico do mestrado em Computação Aplicada ([PPGCAP](https://www.udesc.br/cct/ppgca) e parceria com [FAPESC](https://fapesc.sc.gov.br/)) (+2 anos de experiência)
+  - Desenvolvedor Web Full Stack Jr ([Ponto Sistemas](https://www.pontosistemas.com.br/)) (10 meses de experiência)
+  - Programador e testador de software ([Missões Jr - Empresa júnior](https://br.linkedin.com/in/miss%C3%B5es-j%C3%BAnior-7648551a3)) (11 meses  de experiência)
+  - Gerente de projeto de software ([Missões Jr - Empresa júnior](https://br.linkedin.com/in/miss%C3%B5es-j%C3%BAnior-7648551a3)) (2 anos e 2 meses de experiência)
 
-:stuck_out_tongue_winking_eye: Se eu fosse um objeto JS, acho que seria mais ou menos assim... 
-
-```javascript
-const xk08 = {
-    mePergunteSobre: ["desenvolvimento web", "tecnologias", "apps", "jogos", "ciência", "pós-graduação"],
-    tecnologias: {
-        frontEnd: ["HTML", "CSS", "JavaScript", "React"],
-        backEnd: ["Java", "Spring Boot", "Heroku", "Firebase"],
-        mobileApp: ["Flutter", "React native", "Android Development"],
-        devOps: ["Heroku", "AWS", "Docker"],
-        databases: ["PostgresSQL", "MySql", "Sqlite"],
-    },
-    arquitetura: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    estouFocadoEm: ["Ensinar as pessoas a programar melhor", "melhorar meu portifólio como dev"]
-};
-```
-<br/>
 <br/>
 
 <div align="left">
@@ -165,6 +160,5 @@ Dart                     3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   <p>Total de visitas</p>
   
  ![Visitor Count](https://profile-counter.glitch.me/xk08/count.svg)
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/xk08/xk08/blob/master/images/thnxs.svg"/>
 </div>
