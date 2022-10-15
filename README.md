@@ -8,7 +8,7 @@
   </a>
 </div>
 
-## A estrada até aqui... :rocket:
+# :rocket: A estrada até aqui... 
 * :mortar_board:Minha jornada acadêmica:
   - Mestre em Computação Aplicada (2 anos e 6 meses);
   - Bacharel em Sistemas de Informação (4 anos);
@@ -16,20 +16,20 @@
  
 * :ghost: Minha jornada como professor de Front End II na [Digital House Brasil](https://www.digitalhouse.com/br);
   - Há 11 meses atuo como professor;
-  - Já tive 6 turmas (+2 em andamento atualmente);
+  - Já tive 6 turmas (+2 em andamento);
   - Já auxiliei +200 estudantes em sala de aula ;
  
 * :iphone: Minha jornada como desenvolvedor Web e Mobile:
-  - Desenvolvedor do aplicativo Bem-Estar App | Produto tecnológico do mestrado em Computação Aplicada ([PPGCAP](https://www.udesc.br/cct/ppgca) e parceria com [FAPESC](https://fapesc.sc.gov.br/)) (+2 anos de experiência)
-  - Desenvolvedor Web Full Stack Jr ([Ponto Sistemas](https://www.pontosistemas.com.br/)) (10 meses de experiência)
-  - Programador e testador de software ([Missões Jr - Empresa júnior](https://br.linkedin.com/in/miss%C3%B5es-j%C3%BAnior-7648551a3)) (11 meses  de experiência)
-  - Gerente de projeto de software ([Missões Jr - Empresa júnior](https://br.linkedin.com/in/miss%C3%B5es-j%C3%BAnior-7648551a3)) (2 anos e 2 meses de experiência)
+  - Desenvolvedor do aplicativo Bem-Estar App | Produto tecnológico do mestrado em Computação Aplicada ([PPGCAP](https://www.udesc.br/cct/ppgca) e parceria com [FAPESC](https://fapesc.sc.gov.br/)) (+2 anos de experiência);
+  - Desenvolvedor Web Full Stack Jr ([Ponto Sistemas](https://www.pontosistemas.com.br/)) (10 meses de experiência);
+  - Programador e testador de software ([Missões Jr - Empresa júnior](https://br.linkedin.com/in/miss%C3%B5es-j%C3%BAnior-7648551a3)) (11 meses  de experiência);
+  - Gerente de projeto de software ([Missões Jr - Empresa júnior](https://br.linkedin.com/in/miss%C3%B5es-j%C3%BAnior-7648551a3)) (2 anos e 2 meses de experiência);
 
 <br/>
 
 <div align="left">
 
-## <img src="https://media.tenor.com/CKA21kCjN3QAAAAj/ali-yalniz-world-is-spinning.gif" width="50">  Além do Github, você pode me encontrar em:
+## <img src="https://media.tenor.com/CKA21kCjN3QAAAAj/ali-yalniz-world-is-spinning.gif" width="50">  Além do Github, você pode me encontrar em
 
  <a href="https://twitter.com/xk08__" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
  <a href="https://www.linkedin.com/in/xk08/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -58,7 +58,7 @@ Bloco do YT comentado por enquanto.
  
  <br/>
  
- ## <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" width="50"> Linguagens, tecnologias e ferramentas que utilizo atualmente:
+ ## <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" width="50"> Linguagens, tecnologias e ferramentas que utilizo atualmente
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -75,12 +75,25 @@ Bloco do YT comentado por enquanto.
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  
  <br/>
+ 
+## <img src="https://media.tenor.com/UgAnSKyr8DwAAAAj/cat-robot.gif" width="60"> Um pouco de minha contribuição como Dev (GitHub Stats)
 
-## <img src="https://media.tenor.com/UgAnSKyr8DwAAAAj/cat-robot.gif" width="60"> Um pouco de minha contribuição como Dev (GitHub Stats):
+<a href="https://github.com/xk08/xk08">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xk08&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact" alt="GitHub Stats for xk08"/>
+</a>
+<a href="https://github.com/xk08/xk08">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xk08&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=xk08&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact" alt="GitHub Stats for xk08">
+</br>
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xk08&count_private=true&layout=compact&langs_count=10&theme=react&include_all_commits=true&count_private=true)](https://github.com/xk08/xk08)
+
+</br>
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-4%20Million%20linhas%20de%20c%C3%B3digo-blue)
@@ -148,15 +161,88 @@ Dart                     3 repos             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 
-
 <!--END_SECTION:waka-->
 
-
- <img src="https://github-readme-streak-stats.herokuapp.com?user=xk08&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D">
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xk08&count_private=true&layout=compact&langs_count=10&theme=react&include_all_commits=true&count_private=true)](https://github.com/xk08/xk08)
+ <br/>
  
+ ## <img src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b952d6b7b0e468e03e4fc46cf8308c43f576558c0c1b&rid=giphy.gif&ct=s" width="50"> Conheça minhas turmas de Front end II (JavaScript Vanilla)
+  
+  ### Turmas em andamento
+  
+  <a href="https://github.com/xk08/DH_Turma1_N1_BI1022_FrontEnd2">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma1_N1_BI1022_FrontEnd2&theme=react" />
+  </a>
+  <a href="https://github.com/xk08/DH_Turma2_N2_BI1022_FrontEnd2">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma2_N2_BI1022_FrontEnd2&theme=react" />
+  </a>
+  
+<br/>
+
+  ### Turmas já finalizadas
+  
+  <a href="https://github.com/xk08/DH-FrontEnd2-Turma1-3Bi-2022-Ago-Out-">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH-FrontEnd2-Turma1-3Bi-2022-Ago-Out-&theme=react" />
+  </a>
+  <a href="https://github.com/xk08/DH-FrontEnd2-Turma1-3Bi-2022">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH-FrontEnd2-Turma1-3Bi-2022&theme=react" />
+  </a>
+  
+  <br/>
+  <br/>
+  
+  <a href="https://github.com/xk08/DH-FrontEnd2-Turma5-3Bi">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH-FrontEnd2-Turma5-3Bi&theme=react" />
+  </a>
+  <a href="https://github.com/xk08/DH-FrontEnd2-Turma6-3Bi">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH-FrontEnd2-Turma6-3Bi&theme=react" />
+  </a>
+  
+  <br/>
+  <br/>
+  
+  <a href="https://github.com/xk08/dh_frontend2_turma_1_2021">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=dh_frontend2_turma_1_2021&theme=react" />
+  </a>
+  <a href="https://github.com/xk08/dh_frontend2_turma_2_2021">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=dh_frontend2_turma_2_2021&theme=react" />
+  </a>
+  
+  </br>
+  </br>
+  
+ <details>
+  <summary> Gostou do meu perfil e quer fazer algo parecido?? Deixo aqui links que vão te ajduar!! </summary>
+ 
+  - Estatísticas simples (GitHub stats, GitHub streak e Most used languages):
+    - https://github.com/anuraghazra/github-readme-stats
+    - https://github.com/denvercoder1/github-readme-streak-stats
+  
+  - Estatísticas com o serviço do WakaTime Dashboard:
+    - https://github.com/anmol098/waka-readme-stats
+ 
+ - Emblemas no geral:
+   - https://github.com/Ileriayo/markdown-badges
+  
+  - Outras sugestões que você pode gostar:
+    - https://github.com/antonkomarev/github-profile-views-counter
+    - https://github.com/Ashutosh00710/github-readme-activity-graph
+    - https://github.com/ryo-ma/github-profile-trophy
+   
+  - Perfis para você de inspirar (#CopiaMasNãoFazIgual):
+    - [Guia completo de perfis interessantes](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+    - https://github.com/Skema1114
+    - https://github.com/DenverCoder1/DenverCoder1
+    - https://github.com/abhisheknaiidu
+    - https://github.com/anmol098
+    - https://github.com/mishmanners
+ 
+</details>
+
+  </br>
+  
 <div align="center">
+  <p>{ Este perfil foi atualizado manualmente pela última vez em 14/10/2022 } ;</p>
+  </br>
   <p>Total de visitas</p>
   
  ![Visitor Count](https://profile-counter.glitch.me/xk08/count.svg)
