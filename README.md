@@ -93,7 +93,7 @@ Bloco do YT comentado por enquanto.
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-4%20Million%20linhas%20de%20c%C3%B3digo-blue)
 
