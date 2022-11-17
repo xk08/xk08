@@ -169,6 +169,20 @@ C++                      4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
  <br/>
  
+  ## <img src="https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif" width="70"> O que estou estudando|trabalhando neste momento
+  
+  ### Projetos de estudo em Flutter
+  
+  <a href="https://github.com/xk08/FlutterProjects--Cadastro_e_Login">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=FlutterProjects--Cadastro_e_Login&theme=react" />
+  </a>
+  
+   <a href="https://github.com/xk08/FlutterProjects--Revisando_conceitos">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=FlutterProjects--Revisando_conceitos&theme=react" />
+  </a>
+  
+<br/>
+ 
  ## <img src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b952d6b7b0e468e03e4fc46cf8308c43f576558c0c1b&rid=giphy.gif&ct=s" width="50"> Conheça minhas turmas de Front end II (JavaScript Vanilla)
   
   ### Turmas em andamento
@@ -245,7 +259,7 @@ C++                      4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   </br>
   
 <div align="center">
-  <p>{ Este perfil foi atualizado manualmente pela última vez em 14/10/2022 } ;</p>
+  <p>{ Este perfil foi atualizado manualmente pela última vez em 17/11/2022 } ;</p>
   </br>
   <p>Total de visitas</p>
   
