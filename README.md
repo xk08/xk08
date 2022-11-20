@@ -15,7 +15,7 @@
   - Técnico em informática (2 anos);
  
 * :ghost: Minha jornada como professor de Front End II na [Digital House Brasil](https://www.digitalhouse.com/br);
-  - Há 11 meses atuo como professor;
+  - Há 1 ano atuo como professor;
   - Já tive 6 turmas (+2 em andamento);
   - Já auxiliei +200 estudantes em sala de aula ;
  
@@ -258,7 +258,7 @@ PHP                      4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
   </br>
   
 <div align="center">
-  <p>{ Este perfil foi atualizado manualmente pela última vez em 17/11/2022 } ;</p>
+  <p>{ Este perfil foi atualizado manualmente pela última vez em 20/11/2022 } ;</p>
   </br>
   <p>Total de visitas</p>
   
