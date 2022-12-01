@@ -93,33 +93,6 @@ Bloco do YT comentado por enquanto.
 </br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-4%20Million%20linhas%20de%20c%C3%B3digo-blue)
-
-**🐱 Meus dados no GitHub** 
-
-> 🏆 568 Contribuições no ano de 2022
- > 
-> 📦 320.0 kB Usado no armazenamento do GitHub 
- > 
-> 🚫 Não aberto para contratação
- > 
-> 📜 28 Repositórios Públicos 
- > 
-> 🔑 10 Repositórios Privados  
- > 
-**Eu geralmente programo em JavaScript** 
-
-```text
-JavaScript               18 repos            ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   36.73% 
-Java                     6 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.24% 
-HTML                     6 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.24% 
-Dart                     4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   8.16% 
-PHP                      4 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   8.16%
-
-```
-
-
-
 <!--END_SECTION:waka-->
 
  <br/>
