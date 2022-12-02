@@ -93,13 +93,11 @@ Bloco do YT comentado por enquanto.
 </br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-33-blue)
-
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-4%20Million%20linhas%20de%20c%C3%B3digo-blue)
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 575 Contribuições no ano de 2022
+> 🏆 576 Contribuições no ano de 2022
  > 
 > 📦 320.0 kB Usado no armazenamento do GitHub 
  > 
@@ -122,7 +120,6 @@ PHP                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2022 18:48:45 UTC
 <!--END_SECTION:waka-->
 
  <br/>
