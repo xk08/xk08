@@ -99,7 +99,7 @@ Bloco do YT comentado por enquanto.
 
 > 🏆 586 Contribuições no ano de 2022
  > 
-> 📦 320.7 kB Usado no armazenamento do GitHub 
+> 📦 320.8 kB Usado no armazenamento do GitHub 
  > 
 > 🚫 Não aberto para contratação
  > 
