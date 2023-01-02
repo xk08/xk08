@@ -97,7 +97,7 @@ Bloco do YT comentado por enquanto.
 
 **🐱 Meus dados no GitHub** 
 
-> 🏆 594 Contribuições no ano de 2022
+> 🏆 0 Contribuições no ano de 2023
  > 
 > 📦 320.9 kB Usado no armazenamento do GitHub 
  > 
