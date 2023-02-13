@@ -15,11 +15,12 @@
   - Técnico em informática (2 anos);
  
 * :ghost: Minha jornada como professor de Front End II na [Digital House Brasil](https://www.digitalhouse.com/br);
-  - Há 1 ano atuo como professor;
-  - Já tive 6 turmas (+2 em andamento);
-  - Já auxiliei +200 estudantes em sala de aula ;
+  - Há +1 ano atuo como professor;
+  - Já tive 8 turmas (+1 em andamento);
+  - Já auxiliei +250 estudantes em sala de aula ;
  
 * :iphone: Minha jornada como desenvolvedor Web e Mobile:
+  - Desenvolvedor Mobile Flutter Pleno ([App Confi](https://www.confi.com.vc/)) (+3 meses)
   - Desenvolvedor do aplicativo Bem-Estar App | Produto tecnológico do mestrado em Computação Aplicada ([PPGCAP](https://www.udesc.br/cct/ppgca) e parceria com [FAPESC](https://fapesc.sc.gov.br/)) (+2 anos de experiência);
   - Desenvolvedor Web Full Stack Jr ([Ponto Sistemas](https://www.pontosistemas.com.br/)) (10 meses de experiência);
   - Programador e testador de software ([Missões Jr - Empresa júnior](https://br.linkedin.com/in/miss%C3%B5es-j%C3%BAnior-7648551a3)) (11 meses  de experiência);
@@ -140,18 +141,25 @@ PHP                      4 repos             ██░░░░░░░░░�
  
  ## <img src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b952d6b7b0e468e03e4fc46cf8308c43f576558c0c1b&rid=giphy.gif&ct=s" width="50"> Conheça minhas turmas de Front end II (JavaScript Vanilla)
   
-  ### Turmas em andamento
+  ### Turma em andamento
   
-  <a href="https://github.com/xk08/DH_Turma1_N1_BI1022_FrontEnd2">
+  <a href="https://github.com/xk08/DH_Turma2_N2_BI0223_FrontEnd2_2023">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma2_N2_BI0223_FrontEnd2_2023&theme=react" />
+  </a>
+  
+<br/>
+
+  ### Turmas já finalizadas
+  
+   <a href="https://github.com/xk08/DH_Turma1_N1_BI1022_FrontEnd2">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma1_N1_BI1022_FrontEnd2&theme=react" />
   </a>
   <a href="https://github.com/xk08/DH_Turma2_N2_BI1022_FrontEnd2">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma2_N2_BI1022_FrontEnd2&theme=react" />
   </a>
   
-<br/>
-
-  ### Turmas já finalizadas
+   <br/>
+  <br/>
   
   <a href="https://github.com/xk08/DH-FrontEnd2-Turma1-3Bi-2022-Ago-Out-">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH-FrontEnd2-Turma1-3Bi-2022-Ago-Out-&theme=react" />
@@ -214,7 +222,7 @@ PHP                      4 repos             ██░░░░░░░░░�
   </br>
   
 <div align="center">
-  <p>{ Este perfil foi atualizado manualmente pela última vez em 28/11/2022 } ;</p>
+  <p>{ Este perfil foi atualizado manualmente pela última vez em 13/02/2023 } ;</p>
   </br>
   <p>Total de visitas</p>
   
