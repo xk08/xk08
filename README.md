@@ -129,7 +129,7 @@ HTML                     4 repos             ██░░░░░░░░░�
   
   ### Projetos em ReactJS (Web)
   
-  <a href="  https://github.com/xk08/ReactProjects--Buscando_Nomes_Brasileiros">
+  <a href="https://github.com/xk08/ReactProjects--Buscando_Nomes_Brasileiros">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=ReactProjects--Buscando_Nomes_Brasileiros&theme=react" />
   </a>
   
