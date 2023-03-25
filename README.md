@@ -15,12 +15,12 @@
   - Técnico em informática (2 anos);
  
 * :ghost: Minha jornada como professor de Front End II na [Digital House Brasil](https://www.digitalhouse.com/br);
-  - Há +1 ano atuo como professor;
+  - Há 1 ano e 6 meses atuo como professor;
   - Já tive 8 turmas (+1 em andamento);
   - Já auxiliei +250 estudantes em sala de aula ;
  
 * :iphone: Minha jornada como desenvolvedor Web e Mobile:
-  - Desenvolvedor Mobile Flutter Pleno ([App Confi](https://www.confi.com.vc/)) (+3 meses)
+  - Desenvolvedor Mobile Flutter Pleno ([App Confi](https://www.confi.com.vc/)) (+6 meses de experiência)
   - Desenvolvedor do aplicativo Bem-Estar App | Produto tecnológico do mestrado em Computação Aplicada ([PPGCAP](https://www.udesc.br/cct/ppgca) e parceria com [FAPESC](https://fapesc.sc.gov.br/)) (+2 anos de experiência);
   - Desenvolvedor Web Full Stack Jr ([Ponto Sistemas](https://www.pontosistemas.com.br/)) (10 meses de experiência);
   - Programador e testador de software ([Missões Jr - Empresa júnior](https://br.linkedin.com/in/miss%C3%B5es-j%C3%BAnior-7648551a3)) (11 meses  de experiência);
@@ -30,7 +30,7 @@
 
 <div align="left">
 
-## <img src="https://media.tenor.com/CKA21kCjN3QAAAAj/ali-yalniz-world-is-spinning.gif" width="50">  Além do Github, você pode me encontrar em
+## <img src="https://media.tenor.com/CKA21kCjN3QAAAAj/ali-yalniz-world-is-spinning.gif" width="50">  Além do Github, você me encontra em
 
  <a href="https://twitter.com/xk08__" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
  <a href="https://www.linkedin.com/in/xk08/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -59,7 +59,7 @@ Bloco do YT comentado por enquanto.
  
  <br/>
  
- ## <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" width="50"> Linguagens, tecnologias e ferramentas que utilizo atualmente
+ ## <img src="https://media.tenor.com/itjFesV8_RUAAAAj/soulja-boy-pepe.gif" width="50"> Linguagens, tecnologias e ferramentas que utilizo
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -77,7 +77,7 @@ Bloco do YT comentado por enquanto.
  
  <br/>
  
-## <img src="https://media.tenor.com/UgAnSKyr8DwAAAAj/cat-robot.gif" width="60"> Um pouco de minha contribuição como Dev (GitHub Stats)
+## <img src="https://media.tenor.com/UgAnSKyr8DwAAAAj/cat-robot.gif" width="60"> Um pouco de minha contribuição como Dev
 
 <a href="https://github.com/xk08/xk08">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xk08&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact" alt="GitHub Stats for xk08"/>
@@ -125,9 +125,17 @@ HTML                     4 repos             ██░░░░░░░░░�
 
  <br/>
  
-  ## <img src="https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif" width="70"> O que estou estudando|trabalhando neste momento
+  ## <img src="https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif" width="70"> O que estou estudando no momento
   
-  ### Projetos de estudo em Flutter
+  ### Projetos em ReactJS (Web)
+  
+  <a href="  https://github.com/xk08/ReactProjects--Buscando_Nomes_Brasileiros">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=ReactProjects--Buscando_Nomes_Brasileiros&theme=react" />
+  </a>
+  
+  <br/>
+  
+  ### Projetos em Flutter (Mobile, Apps)
   
   <a href="https://github.com/xk08/FlutterProjects--Cadastro_e_Login_com_SharedPreferences">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=FlutterProjects--Cadastro_e_Login_com_SharedPreferences&theme=react" />
@@ -222,7 +230,7 @@ HTML                     4 repos             ██░░░░░░░░░�
   </br>
   
 <div align="center">
-  <p>{ Este perfil foi atualizado manualmente pela última vez em 13/02/2023 } ;</p>
+  <p>{ Este perfil foi atualizado manualmente pela última vez em 25/03/2023 } ;</p>
   </br>
   <p>Total de visitas</p>
   
