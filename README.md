@@ -14,10 +14,11 @@
   - Bacharel em Sistemas de Informação (4 anos);
   - Técnico em informática (2 anos);
  
-* :ghost: Minha jornada como professor de Front End II na [Digital House Brasil](https://www.digitalhouse.com/br);
-  - Há 1 ano e 6 meses atuo como professor;
-  - Já tive 8 turmas (+1 em andamento);
-  - Já auxiliei +250 estudantes em sala de aula ;
+* :ghost: Minha jornada como professor de Front End na [Digital House Brasil](https://www.digitalhouse.com/br);
+  - Há 1 ano e 6 meses atuo como Professor Generalista em Front End;
+  - Dou aulas de Front end II (JavaScript Vanilla) e Front end III (ReactJS);
+  - Já tive 9 turmas (+1 em andamento);
+  - Já auxiliei +270 estudantes em sala de aula;
  
 * :iphone: Minha jornada como desenvolvedor Web e Mobile:
   - Desenvolvedor Mobile Flutter Pleno ([App Confi](https://www.confi.com.vc/)) (+6 meses de experiência)
@@ -125,7 +126,7 @@ HTML                     4 repos             ██░░░░░░░░░�
 
  <br/>
  
-  ## <img src="https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif" width="70"> O que estou estudando no momento
+  ## <img src="https://user-images.githubusercontent.com/52041719/130401352-33781db0-a1f7-4d09-ba9e-a2f3e1ba081f.gif" width="70"> Meus projetos mais recentes (públicos)
   
   ### Projetos em ReactJS (Web)
   
@@ -147,7 +148,7 @@ HTML                     4 repos             ██░░░░░░░░░�
   
 <br/>
 
- ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ5ODI4MWU1ZmUwN2U4MmYzNTg5YmIwOTQ3ODQ3NDA5YTk3ZGRmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/RJzm826vu7WbJvBtxX/giphy.gif" width="50"> Minhas turmas de Front end III (React JS)
+ ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ5ODI4MWU1ZmUwN2U4MmYzNTg5YmIwOTQ3ODQ3NDA5YTk3ZGRmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/RJzm826vu7WbJvBtxX/giphy.gif" width="50"> Minhas turmas de Front end III (ReactJS)
   
   ### Turma em andamento
   
