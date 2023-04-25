@@ -146,20 +146,28 @@ HTML                     4 repos             ██░░░░░░░░░�
   </a>
   
 <br/>
- 
- ## <img src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b952d6b7b0e468e03e4fc46cf8308c43f576558c0c1b&rid=giphy.gif&ct=s" width="50"> Conheça minhas turmas de Front end II (JavaScript Vanilla)
+
+ ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQ5ODI4MWU1ZmUwN2U4MmYzNTg5YmIwOTQ3ODQ3NDA5YTk3ZGRmOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/RJzm826vu7WbJvBtxX/giphy.gif" width="50"> Minhas turmas de Front end III (React JS)
   
   ### Turma em andamento
   
+  <a href="https://github.com/xk08/DH_Turma1_BI06_0222_FrontEnd3_2023">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma1_BI06_0222_FrontEnd3_2023&theme=react" />
+  </a>
+  
+   <br/>
+   
+ ## <img src="https://media0.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b952d6b7b0e468e03e4fc46cf8308c43f576558c0c1b&rid=giphy.gif&ct=s" width="50"> Minhas turmas de Front end II (JavaScript Vanilla)
+  
+  ### Turmas já finalizadas
   <a href="https://github.com/xk08/DH_Turma2_N2_BI0223_FrontEnd2_2023">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma2_N2_BI0223_FrontEnd2_2023&theme=react" />
   </a>
   
-<br/>
-
-  ### Turmas já finalizadas
+  <br/>
+  <br/>
   
-   <a href="https://github.com/xk08/DH_Turma1_N1_BI1022_FrontEnd2">
+  <a href="https://github.com/xk08/DH_Turma1_N1_BI1022_FrontEnd2">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma1_N1_BI1022_FrontEnd2&theme=react" />
   </a>
   <a href="https://github.com/xk08/DH_Turma2_N2_BI1022_FrontEnd2">
@@ -200,7 +208,7 @@ HTML                     4 repos             ██░░░░░░░░░�
   </br>
   
  <details>
-  <summary> Gostou do meu perfil e quer fazer algo parecido?? Deixo aqui links que vão te ajduar!! </summary>
+  <summary> Gostou do meu perfil e quer fazer algo parecido? Deixo aqui links que vão te ajudar!! </summary>
  
   - Estatísticas simples (GitHub stats, GitHub streak e Most used languages):
     - https://github.com/anuraghazra/github-readme-stats
@@ -230,7 +238,7 @@ HTML                     4 repos             ██░░░░░░░░░�
   </br>
   
 <div align="center">
-  <p>{ Este perfil foi atualizado manualmente pela última vez em 25/03/2023 } ;</p>
+  <p>{ Este perfil foi atualizado manualmente pela última vez em 24/04/2023 } ;</p>
   </br>
   <p>Total de visitas</p>
   
