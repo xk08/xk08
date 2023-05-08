@@ -15,13 +15,13 @@
   - Técnico em informática (2 anos);
  
 * :ghost: Minha jornada como professor de Front End na [Digital House Brasil](https://www.digitalhouse.com/br);
-  - Há 1 ano e 6 meses atuo como Professor Generalista em Front End;
+  - Há 1 ano e 7 meses atuo como Professor Generalista em Front End;
   - Dou aulas de Front end II (JavaScript Vanilla) e Front end III (ReactJS);
   - Já tive 9 turmas (+1 em andamento);
   - Já auxiliei +270 estudantes em sala de aula;
  
 * :iphone: Minha jornada como desenvolvedor Web e Mobile:
-  - Desenvolvedor Mobile Flutter Pleno ([App Confi](https://www.confi.com.vc/)) (+6 meses de experiência)
+  - Desenvolvedor Mobile Flutter Pleno ([App Confi](https://www.confi.com.vc/)) (+7 meses de experiência)
   - Desenvolvedor do aplicativo Bem-Estar App | Produto tecnológico do mestrado em Computação Aplicada ([PPGCAP](https://www.udesc.br/cct/ppgca) e parceria com [FAPESC](https://fapesc.sc.gov.br/)) (+2 anos de experiência);
   - Desenvolvedor Web Full Stack Jr ([Ponto Sistemas](https://www.pontosistemas.com.br/)) (10 meses de experiência);
   - Programador e testador de software ([Missões Jr - Empresa júnior](https://br.linkedin.com/in/miss%C3%B5es-j%C3%BAnior-7648551a3)) (11 meses  de experiência);
@@ -239,7 +239,7 @@ HTML                     4 repos             ██░░░░░░░░░�
   </br>
   
 <div align="center">
-  <p>{ Este perfil foi atualizado manualmente pela última vez em 24/04/2023 } ;</p>
+  <p>{ Este perfil foi atualizado manualmente pela última vez em 08/05/2023 } ;</p>
   </br>
   <p>Total de visitas</p>
   
