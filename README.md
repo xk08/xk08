@@ -11,7 +11,7 @@
 # :rocket: A estrada até aqui... 
 * :mortar_board:Minha jornada acadêmica:
   - Mestre em Computação Aplicada (2 anos e 6 meses);
-  - Bacharel em Sistemas de Informação (4 anos);
+  - Bacharel em Sistemas de Informação (4 anos); 
   - Técnico em informática (2 anos);
  
 * :ghost: Minha jornada como professor de Front End na [Digital House Brasil](https://www.digitalhouse.com/br);
@@ -174,7 +174,7 @@ PHP                      4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   ### Projetos em ReactJS (Web)
   
   <a href="https://github.com/xk08/ReactProjects--Buscando_Nomes_Brasileiros">
-   <img width="500em" height="500em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=ReactProjects--Buscando_Nomes_Brasileiros&theme=react" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=ReactProjects--Buscando_Nomes_Brasileiros&theme=react" />
   </a>
   
   <br/>
@@ -182,11 +182,11 @@ PHP                      4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   ### Projetos em Flutter (Mobile, Apps)
   
   <a href="https://github.com/xk08/FlutterProjects--Cadastro_e_Login_com_SharedPreferences">
-   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=FlutterProjects--Cadastro_e_Login_com_SharedPreferences&theme=react" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=FlutterProjects--Cadastro_e_Login_com_SharedPreferences&theme=react" />
   </a>
   
    <a href="https://github.com/xk08/FlutterProjects--Projeto_multiplataforma_flutter">
-   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=FlutterProjects--Projeto_multiplataforma_flutter&theme=react" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=FlutterProjects--Projeto_multiplataforma_flutter&theme=react" />
   </a>
   
 <br/>
@@ -196,7 +196,7 @@ PHP                      4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   ### Turma em andamento
   
   <a href="https://github.com/xk08/DH_Turma1_BI06_0222_FrontEnd3_2023">
-   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma1_BI06_0222_FrontEnd3_2023&theme=react" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma1_BI06_0222_FrontEnd3_2023&theme=react" />
   </a>
   
    <br/>
@@ -205,47 +205,47 @@ PHP                      4 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   
   ### Turmas já finalizadas
   <a href="https://github.com/xk08/DH_Turma2_N2_BI0223_FrontEnd2_2023">
-   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma2_N2_BI0223_FrontEnd2_2023&theme=react" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma2_N2_BI0223_FrontEnd2_2023&theme=react" />
   </a>
   
   <br/>
   <br/>
   
   <a href="https://github.com/xk08/DH_Turma1_N1_BI1022_FrontEnd2">
-   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma1_N1_BI1022_FrontEnd2&theme=react" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma1_N1_BI1022_FrontEnd2&theme=react" />
   </a>
   <a href="https://github.com/xk08/DH_Turma2_N2_BI1022_FrontEnd2">
-   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma2_N2_BI1022_FrontEnd2&theme=react" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH_Turma2_N2_BI1022_FrontEnd2&theme=react" />
   </a>
   
    <br/>
   <br/>
   
   <a href="https://github.com/xk08/DH-FrontEnd2-Turma1-3Bi-2022-Ago-Out-">
-   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH-FrontEnd2-Turma1-3Bi-2022-Ago-Out-&theme=react" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH-FrontEnd2-Turma1-3Bi-2022-Ago-Out-&theme=react" />
   </a>
   <a href="https://github.com/xk08/DH-FrontEnd2-Turma1-3Bi-2022">
-   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH-FrontEnd2-Turma1-3Bi-2022&theme=react" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH-FrontEnd2-Turma1-3Bi-2022&theme=react" />
   </a>
   
   <br/>
   <br/>
   
   <a href="https://github.com/xk08/DH-FrontEnd2-Turma5-3Bi">
-   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH-FrontEnd2-Turma5-3Bi&theme=react" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH-FrontEnd2-Turma5-3Bi&theme=react" />
   </a>
   <a href="https://github.com/xk08/DH-FrontEnd2-Turma6-3Bi">
-   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH-FrontEnd2-Turma6-3Bi&theme=react" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=DH-FrontEnd2-Turma6-3Bi&theme=react" />
   </a>
   
   <br/>
   <br/>
   
   <a href="https://github.com/xk08/dh_frontend2_turma_1_2021">
-   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=dh_frontend2_turma_1_2021&theme=react" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=dh_frontend2_turma_1_2021&theme=react" />
   </a>
   <a href="https://github.com/xk08/dh_frontend2_turma_2_2021">
-   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=dh_frontend2_turma_2_2021&theme=react" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xk08&repo=dh_frontend2_turma_2_2021&theme=react" />
   </a>
   
   </br>
