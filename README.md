@@ -81,16 +81,20 @@ Bloco do YT comentado por enquanto.
 ## <img src="https://media.tenor.com/UgAnSKyr8DwAAAAj/cat-robot.gif" width="60"> Um pouco de minha contribuição como Dev
 
 <a href="https://github.com/xk08/xk08">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xk08&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact" alt="GitHub Stats for xk08"/>
+   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api?username=xk08&show_icons=true&include_all_commits=true&count_private=true&theme=react&layout=compact" alt="GitHub Stats for xk08"/>
 </a>
+
+<br/>
+
 <a href="https://github.com/xk08/xk08">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xk08&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D"/>
+   <img width="500em" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xk08&theme=react&locale=pt-br&date_format=j%2Fn%5B%2FY%5D"/>
 </a>
 
 </br>
-</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xk08&count_private=true&layout=compact&langs_count=10&theme=react&include_all_commits=true&count_private=true)](https://github.com/xk08/xk08)
+<a href="https://github.com/xk08/xk08">
+   <img width="500em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xk08&count_private=true&layout=compact&langs_count=10&theme=react&include_all_commits=true&count_private=true&hide_title=true"/>
+</a>
 
 </br>
 
