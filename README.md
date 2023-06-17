@@ -99,7 +99,7 @@ Bloco do YT comentado por enquanto.
 </br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-17.7%20million%20linhas%20de%20c%C3%B3digo-blue)
 
@@ -164,7 +164,7 @@ Vue                      3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 17/06/2023 12:30:08 UTC
+ Last Updated on 17/06/2023 18:20:29 UTC
 <!--END_SECTION:waka-->
 
  <br/>
