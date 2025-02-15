@@ -99,6 +99,8 @@ Bloco do YT comentado por enquanto.
 </br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C364%20hrs%2056%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/Desde%20o%20Hello%20World%20eu%20escrevi-18.5%20million%20linhas%20de%20c%C3%B3digo-blue)
 
 **Eu sou diurno 🐤** 
@@ -153,7 +155,7 @@ Vue                      3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 15/02/2025 06:28:46 UTC
+ Last Updated on 15/02/2025 12:37:24 UTC
 <!--END_SECTION:waka-->
 
  <br/>
